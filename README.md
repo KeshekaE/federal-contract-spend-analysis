@@ -9,7 +9,7 @@ Analyzes FY2024 federal contract spend across agencies, industries, and contract
 - What does the contractor landscape look like by size tier?
 
 ## Stack
-Python · SQL (SQLite) · Jupyter Notebook · Tableau / Power BI
+Python · SQL (SQLite) · Jupyter Notebook · Tableau Public
 
 ## Repository Structure
 federal-contract-spend-analysis/
