@@ -95,6 +95,9 @@ Six 2-digit NAICS prefixes analyzed: Professional Services (54), Manufacturing (
 ## Dashboard
 [View live on Tableau Public →](https://public.tableau.com/views/FederalContractSpendAnalysisFY2024/Dashboard1)
 
+## Portfolio
+[Portfolio Link →](https://keportfolio.vercel.app)
+
 ## Author
 **Kesheka Edupuganti**  
 Data Analyst & BI Specialist | Loma Linda, CA  
