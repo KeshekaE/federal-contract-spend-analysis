@@ -92,6 +92,9 @@ Six 2-digit NAICS prefixes analyzed: Professional Services (54), Manufacturing (
 - No authentication or API key required
 - Data is U.S. government public domain
 
+## Dashboard
+[View live on Tableau Public →](https://public.tableau.com/views/FederalContractSpendAnalysisFY2024/Dashboard1)
+
 ## Author
 **Kesheka Edupuganti**  
 Data Analyst & BI Specialist | Loma Linda, CA  
